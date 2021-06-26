@@ -1,0 +1,2 @@
+(this["webpackJsonpfront.mosmetod"]=this["webpackJsonpfront.mosmetod"]||[]).push([[28],{476:function(e,t,n){},489:function(e,t,n){"use strict";n.r(t);n(476);var o=n(0),a=n.n(o);t.default=function(e){return a.a.createElement(a.a.Fragment,null,a.a.createElement("div",{className:"section-in-development"},"\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435"))}}}]);
+//# sourceMappingURL=28.62e709d9.chunk.js.map
